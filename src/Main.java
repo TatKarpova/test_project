@@ -1,8 +1,8 @@
 public class Main {
+
+    // This is new branch
     public static void main(String[] args) {
-        System.out.printf("!");
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
-        }
+        System.out.println("Hi all!");
+        System.out.println(100 + 100);
     }
 }
