@@ -8,7 +8,7 @@ public class Main {
             System.out.println("Hello number = " + calc(i, RandomGenerator.getDefault().nextInt()));
         }
     }
-
+//HI! John Doe
     static int calc(int a, int b) {
         if (a > b) {
             return a * b;
