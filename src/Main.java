@@ -7,6 +7,7 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             System.out.println("Hello number = " + calc(i, RandomGenerator.getDefault().nextInt()));
         }
+        System.out.println("Happy new year");
     }
 
     static int calc(int a, int b) {
