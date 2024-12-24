@@ -9,7 +9,7 @@ public class Main {
         }
         System.out.println("Happy new year");
     }
-
+//HI! John Doe
     static int calc(int a, int b) {
         if (a > b) {
             return a * b;
